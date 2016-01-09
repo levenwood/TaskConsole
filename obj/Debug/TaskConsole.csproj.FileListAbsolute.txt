@@ -1,0 +1,5 @@
+d:\Projects\TaskConsole\TaskConsole\bin\Debug\TaskConsole.exe
+d:\Projects\TaskConsole\TaskConsole\bin\Debug\TaskConsole.pdb
+d:\Projects\TaskConsole\TaskConsole\obj\Debug\TaskConsole.csprojResolveAssemblyReference.cache
+d:\Projects\TaskConsole\TaskConsole\obj\Debug\TaskConsole.exe
+d:\Projects\TaskConsole\TaskConsole\obj\Debug\TaskConsole.pdb
